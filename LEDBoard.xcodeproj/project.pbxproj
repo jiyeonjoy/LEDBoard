@@ -13,6 +13,7 @@
 		2713BF382900DCE6000405BD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2713BF362900DCE6000405BD /* Main.storyboard */; };
 		2713BF3A2900DCE7000405BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2713BF392900DCE7000405BD /* Assets.xcassets */; };
 		2713BF3D2900DCE7000405BD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2713BF3B2900DCE7000405BD /* LaunchScreen.storyboard */; };
+		2713BF452900DF8D000405BD /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2713BF442900DF8D000405BD /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2713BF392900DCE7000405BD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2713BF3C2900DCE7000405BD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2713BF3E2900DCE7000405BD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2713BF442900DF8D000405BD /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2713BF392900DCE7000405BD /* Assets.xcassets */,
 				2713BF3B2900DCE7000405BD /* LaunchScreen.storyboard */,
 				2713BF3E2900DCE7000405BD /* Info.plist */,
+				2713BF442900DF8D000405BD /* SettingViewController.swift */,
 			);
 			path = LEDBoard;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				2713BF352900DCE6000405BD /* ViewController.swift in Sources */,
 				2713BF312900DCE6000405BD /* AppDelegate.swift in Sources */,
 				2713BF332900DCE6000405BD /* SceneDelegate.swift in Sources */,
+				2713BF452900DF8D000405BD /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
